@@ -1,0 +1,6 @@
+c:\users\liuy14\documents\visual studio 2010\Projects\KeybirdKatzDBApi\KeybirdKatzDBApi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\liuy14\documents\visual studio 2010\Projects\KeybirdKatzDBApi\KeybirdKatzDBApi\bin\Debug\KeybirdKatzDBApi.exe.config
+c:\users\liuy14\documents\visual studio 2010\Projects\KeybirdKatzDBApi\KeybirdKatzDBApi\bin\Debug\KeybirdKatzDBApi.exe
+c:\users\liuy14\documents\visual studio 2010\Projects\KeybirdKatzDBApi\KeybirdKatzDBApi\bin\Debug\KeybirdKatzDBApi.pdb
+c:\users\liuy14\documents\visual studio 2010\Projects\KeybirdKatzDBApi\KeybirdKatzDBApi\obj\x86\Debug\KeybirdKatzDBApi.exe
+c:\users\liuy14\documents\visual studio 2010\Projects\KeybirdKatzDBApi\KeybirdKatzDBApi\obj\x86\Debug\KeybirdKatzDBApi.pdb
